@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Optimistickeshav
-- 👀 I’m interested in HTML, CSS, Bootstrap 5.0, python, django, php
-- 🌱 I’m currently learning django and Cyber Security
-- 💞️ I’m looking to collaborate on a Multi Author Based Blogging Site.
-- 📫 How to reach me - growth@optimistickeshav.com
+- 👀 I’m interested in Web & App Dev., Digital Marketing, VAPT.
+- 🌱 I’m currently learning Cyber Security.
+- 💞️ I’m looking to collaborate on a Web Scrapping tool
+- 📫 How to reach me - info@phenomenalwebworkx.in
 
 ✨ Have a Good Time Ahead... ✨
 
